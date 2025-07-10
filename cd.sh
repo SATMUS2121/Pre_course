@@ -1,3 +1,3 @@
-#/bin/bash/
+#!/bin/bash/
 # this change a diricyory
 cd

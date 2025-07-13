@@ -1,3 +1,3 @@
 #!/bin/bash
 # this file create dirictory
-mkdir
+mkdir satmus
